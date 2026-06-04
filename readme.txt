@@ -31,7 +31,7 @@ Use the provided shortcode to display the post grid on your website.
 
 Credits
 
-This plugin was inspired by Codrops motion slideshow / image transition demos.
+This plugin was inspired by Codrops Post grid transition demos.
 
 Original inspiration:
 https://tympanus.net/codrops/
