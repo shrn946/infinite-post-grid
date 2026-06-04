@@ -28,3 +28,22 @@ Upload the "Infinite Masonry Post Grid With Loading Effect" plugin folder to the
 Activate the plugin through the 'Plugins' menu in WordPress.
 Configure the plugin settings as desired.
 Use the provided shortcode to display the post grid on your website.
+
+Credits
+
+This plugin was inspired by Codrops motion slideshow / image transition demos.
+
+Original inspiration:
+https://tympanus.net/codrops/
+
+This WordPress plugin implementation is not affiliated with or endorsed by Codrops.
+
+Third-party libraries:
+GSAP / TweenMax by GreenSock
+https://greensock.com/
+
+imagesLoaded by Dave DeSandro
+https://imagesloaded.desandro.com/
+
+Charming.js
+https://github.com/yuanqing/charming
